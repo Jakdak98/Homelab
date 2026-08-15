@@ -1,0 +1,15 @@
+# Sekrety i klucze - NIGDY nie commitować
+*.pem
+*.key
+id_rsa
+id_rsa.pub
+.env
+*credentials*
+vault_pass.txt
+
+# Ansible
+*.retry
+
+# System
+.DS_Store
+Thumbs.db
