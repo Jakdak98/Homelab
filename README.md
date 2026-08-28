@@ -21,7 +21,7 @@ Dokumentacja procesu krok po kroku, budowana na bieżąco.
 ## Postęp
 
 - [x] Faza 0: Setup repo, Git, VS Code
-- [ ] Faza 1: Fundament (VM, sieć)
+- [x] Faza 1: Fundament (VM, sieć)
 - [ ] Faza 2: Reverse proxy + TLS
 - [ ] Faza 3: Ansible (IaC)
 - [ ] Faza 4: Security hardening
