@@ -13,3 +13,6 @@ vault_pass.txt
 # System
 .DS_Store
 Thumbs.db
+# Docker runtime data - never commit
+docker/**/data/
+docker/**/letsencrypt/
